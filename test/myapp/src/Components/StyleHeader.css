@@ -1,0 +1,19 @@
+.header
+{
+font-size: 150px;
+text-align: center;
+font-weight: bold;
+color: white;
+padding-top: 100px;
+}
+
+.apiNames
+{
+    text-align: center;
+    color: white;  
+    font-size: 20px; 
+}
+.content
+{
+    padding-top: 50px;
+}
